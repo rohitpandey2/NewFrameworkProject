@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "framework-project-1-client-side-solution",
+    "id": "f944e2ec-9305-4220-abc0-b84eafae8e50",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/framework-project-1.sppkg"
+  }
+}
